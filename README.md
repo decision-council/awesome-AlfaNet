@@ -260,6 +260,7 @@
 ### 4.4 Web Security
 
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Comprehensive list of web security resources.
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings#readme) - Ultimate collection of web attack payloads and bypass techniques.
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security#readme) - Free online web security training from the creators of Burp Suite.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap#readme) - Automated SQL injection and database takeover tool.
